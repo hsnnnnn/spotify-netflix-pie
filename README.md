@@ -1,6 +1,6 @@
 # spotify-netfix-pie-app
  This project dont finished yet!
-#Installation
+# Installation
 npm i
 npm create vue@latest
 cd //
